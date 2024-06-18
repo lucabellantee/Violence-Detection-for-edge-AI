@@ -42,10 +42,19 @@ Any advise for common problems or issues.
 command to run if program contains helper info
 ```
 
-## Authors
+## Autori e Contributi
 
-* [Luca Bellante](https://github.com/username1](https://github.com/lucabellantee) - 50 %
-* [Agnese Bruglia](https://github.com/username1](https://github.com/AgneseBruglia) - 50 %
+<table>
+  <tr>
+    <td><a href="https://github.com/luca-rossi"><strong>Luca Rossi</strong></a></td>
+    <td><progress value="50" max="100"></progress> 50%</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/maria-bianchi"><strong>Maria Bianchi</strong></a></td>
+    <td><progress value="50" max="100"></progress> 50%</td>
+  </tr>
+</table>
+
 
 ## Version History
 
