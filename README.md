@@ -4,7 +4,7 @@ Metodi e risultati per ottimizzare modelli di Deep-Learning per l'Edge-AI, a par
 
 ## Disclaimer
 
-A causa dei limiti di spazio imposti da GitHub, il dataset ed i modelli, sono presenti nella seguente cartella [Gdrive]([https://www.google.com](https://drive.google.com/drive/folders/1vwOICAaE-ESojIxODMB_rZ9fEC2hxBwT?usp=sharing))
+A causa dei limiti di spazio imposti da GitHub, il dataset ed i modelli, sono presenti nella seguente cartella [Gdrive](ttps://drive.google.com/drive/folders/1vwOICAaE-ESojIxODMB_rZ9fEC2hxBwT?usp=sharing)
 
 ## Description
 
