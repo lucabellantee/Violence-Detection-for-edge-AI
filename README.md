@@ -2,6 +2,10 @@
 
 Metodi e risultati per ottimizzare modelli di Deep-Learning per l'Edge-AI, a partire dai modelli: "*MobileNet-V3 Small + ConvLSTm*" E "*MobileNet-V3 Small + BiLSTM*".
 
+## Disclaimer
+
+A causa dei limiti di spazio imposti da GitHub, il dataset ed i modelli, sono presenti nella seguente cartella [Gdrive]([https://www.google.com](https://drive.google.com/drive/folders/1vwOICAaE-ESojIxODMB_rZ9fEC2hxBwT?usp=sharing))
+
 ## Description
 
 La repository è suddivisa nelle seguenti cartelle: 
@@ -15,42 +19,17 @@ La repository è suddivisa nelle seguenti cartelle:
 * **Modelli standard**: Contiene i codici per fare inferenza sui modelli: "*MobileNet-V3 Small + ConvLSTm*" E "*MobileNet-V3 Small + BiLSTM*".
 * **Pruning**: Contiene i codici per effettuare e valutare alcune tipologie di pruning.
 
-## Getting Started
 
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Autori e Contributi
 
 <table>
   <tr>
-    <td><a href="https://github.com/luca-rossi"><strong>Luca Rossi</strong></a></td>
+    <td><a href="https://github.com/lucabellantee"><strong>Luca Bellante</strong></a></td>
     <td><progress value="50" max="100"></progress> 50%</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/maria-bianchi"><strong>Maria Bianchi</strong></a></td>
+    <td><a href="https://github.com/AgneseBruglia"><strong>Agnese Bruglia</strong></a></td>
     <td><progress value="50" max="100"></progress> 50%</td>
   </tr>
 </table>
